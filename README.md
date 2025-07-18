@@ -15,4 +15,3 @@
 pip install pyemailer
 =======
 pip install ZapMail
->>>>>>> 12f6b95 (Addition to more services)

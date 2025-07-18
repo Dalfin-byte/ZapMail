@@ -15,7 +15,6 @@ setup(
 =======
     name="ZapMail",
     version="1.0.1",
->>>>>>> 12f6b95 (Addition to more services)
     packages=find_packages(),
     install_requires=[],
     author="Dalfin-Byte",
