@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+ZapMail/__init__.py
+ZapMail/emailer.py
+ZapMail.egg-info/PKG-INFO
+ZapMail.egg-info/SOURCES.txt
+ZapMail.egg-info/dependency_links.txt
+ZapMail.egg-info/top_level.txt
+tests/test_emailer.py
